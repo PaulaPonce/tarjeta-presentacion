@@ -1,0 +1,65 @@
+.tarjeta{
+	font-family: 'Muli', sans-serif;
+	font-size: 16px;
+	background-color: #4A4949;
+	color: whitesmoke;
+	width:90%;
+	height: 50%;
+	position: absolute;
+	margin: 0;
+}
+
+.nombre{
+	padding: 30px;
+}
+
+.datos-contacto p{
+	text-align: left;
+	margin: 0;
+	position: relative;
+	left: -40px;
+}
+
+.nombre p:nth-child(2){
+	color: #F9A91A;
+	text-align: center;
+}
+
+.logo img{
+	width: 140px;
+	height: auto;
+	position: absolute;
+	top: 5px;
+	left: 25%;
+	z-index: 1;
+}
+
+.foto img{
+	width: 79%;
+	height: auto;
+	position: absolute; /*absolute*/
+}
+
+.datos{
+	text-align: center;
+	border-bottom: 307px solid #4A4949;
+	border-left: 150px solid transparent;
+	height: 0;
+	width: 300px;
+	position: absolute; /*relative*/
+	right: 0;
+	bottom: 0;
+	/*left: 180px;
+	bottom: 0;*/
+}
+
+.lab img{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+
+/*	background-image: url("..img/Laboratoria_Isotipo CodeAcademy.png");
+*/
