@@ -4,7 +4,7 @@
 	background-color: #4A4949;
 	color: whitesmoke;
 	width:50%;
-	height: 50%;
+	height: 45%;
 	position: absolute;
 	margin: 0;
 }
@@ -35,17 +35,17 @@
 }
 
 .foto img{
-	width: 80%;
+	width: 77%;
 	height: auto;
 	position: absolute;
 }
 
 .datos{
 	text-align: center;
-	border-bottom: 307px solid #4A4949;
+	border-bottom: 298px solid #4A4949;
 	border-left: 150px solid transparent;
 	height: 0;
-	width: 300px;
+	width: 280px;
 	position: absolute;
 	right: 0;
 	bottom: 0;
